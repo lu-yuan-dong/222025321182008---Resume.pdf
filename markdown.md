@@ -3,9 +3,7 @@
 
 ## 个人信息                           
                                              
-- **姓名**：卢远东
--
--                                                ![218e06dd04e66eb60f7bd94f85d94b16](https://github.com/user-attachments/assets/0cfdec5d-0d5b-4ff2-9e57-dcbe1205bc34)
+- **姓名**：卢远东                                                                 ![218e06dd04e66eb60f7bd94f85d94b16](https://github.com/user-attachments/assets/9f3ddbac-96a5-4b4a-a921-41a9308c59d5)
 
 - **邮箱**：2406413593@qq.com                     
 - **手机**：15086753573                       
