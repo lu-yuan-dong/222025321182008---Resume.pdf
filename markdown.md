@@ -4,11 +4,9 @@
 ## 个人信息                           
                                              
 - **姓名**：卢远东
-
-                                                             ![218e06dd04e66eb60f7bd94f85d94b16](https://github.com/user-attachments/assets/9f3ddbac-96a5-4b4a-a921-41a9308c59d5)
-
-- **邮箱**：2406413593@qq.com                     
-- **手机**：15086753573                       
+- **邮箱**：2406413593@qq.com                                                                         ![218e06dd04e66eb60f7bd94f85d94b16](https://github.com/user-attachments/assets/01f54218-5c6e-41aa-b647-8c5c0a8391dc)
+                                                                      
+- **手机**：15086753573                                                                                                           
 - **地址**：重庆市北碚区
 
 
